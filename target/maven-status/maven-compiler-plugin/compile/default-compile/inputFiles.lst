@@ -1,0 +1,14 @@
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/dto/ErrorResponse.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/model/OtpDataConverter.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/service/OtpService.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/model/OtpToken.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/service/OtpGeneratorService.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/controller/GlobalExceptionHandler.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/dto/CreateOtpRequest.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/dto/CreateOtpResponse.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/repository/OtpTokenRepository.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/dto/ValidateOtpResponse.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/dto/ValidateOtpRequest.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/model/OtpData.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/controller/OtpController.java
+/Users/martintraverso/.gemini/antigravity/scratch/otp-service/src/main/java/com/example/otp/OtpServiceApplication.java
